@@ -6,7 +6,8 @@ namespace Birthday
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("What I want for my Birthday:\nA Ferrari");
+            Console.ReadKey();
         }
     }
 }
